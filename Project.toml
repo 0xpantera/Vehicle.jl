@@ -1,0 +1,13 @@
+name = "Vehicle"
+uuid = "2d8081eb-bff0-4369-a3c2-ccfc7a6f6a0e"
+authors = ["Francososa <franky.sosa@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
